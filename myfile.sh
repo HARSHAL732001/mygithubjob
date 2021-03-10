@@ -1,1 +1,1 @@
-This is the first version ..!
+echo "This is the first version ..!"
